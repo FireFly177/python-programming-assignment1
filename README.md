@@ -3,7 +3,7 @@
 ## Environment
 1. Clone this repo
 ```
-git clone
+git clone https://github.com/FireFly177/python-programming-assignment1.git
 ```
 2. Create a virtual environment
 ```
